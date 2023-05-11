@@ -1,0 +1,10 @@
+name: qwik-app
+id: 1594ee54-b335-46e1-a5d1-999ad3d8746c
+languages:
+  - TypeScript
+  - TSX
+extensions:
+  - .ts
+  - .cts
+  - .mts
+  - .tsx
